@@ -11,4 +11,4 @@ app.get('/', (req, res)=>{
     res.send("hello boy");
 });
 
-app.listen(1500);
+app.listen(2500);
